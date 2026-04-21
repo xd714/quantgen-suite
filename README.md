@@ -133,6 +133,16 @@ if r_available():
 ```
 
 ---
+## Example outputs
+
+### Manhattan plot
+![Manhattan plot](assets/manhattan.png)
+
+### QQ plot
+![QQ plot](assets/qqplot.png)
+
+### Genetic trend
+![Genetic trend](assets/genetic_trend.png)
 
 ## Author
 
